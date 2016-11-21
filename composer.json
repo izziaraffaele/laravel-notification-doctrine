@@ -1,0 +1,10 @@
+{
+    "name": "izziaraffaele/laravel-notification-doctrine",
+    "type": "library",
+    "require": {
+        "laravel-doctrine/orm": "1.0.*",
+        "illuminate/notifications": "^5.3",
+        "illuminate/support": "5.1.* || 5.2.* || 5.3.*"
+    },
+    "license": "MIT"
+}
